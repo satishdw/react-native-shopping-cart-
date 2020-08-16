@@ -22,13 +22,13 @@
    
 ![alt text][two]
    
-   [one]: screenshots/signup.png "two"
+   [two]: screenshots/signup.png "two"
    
    
-![alt text][main]
+![alt text][three]
    
-   [one]: screenshots/main.png "three"
+   [three]: screenshots/main.png "three"
 
 ![alt text][forth]
    
-   [one]: screenshots/product_list.png "forth"
+   [forth]: screenshots/product_list.png "forth"
