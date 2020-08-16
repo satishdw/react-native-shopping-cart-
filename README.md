@@ -1,10 +1,6 @@
-# React-Native ShoppingCart + Firebase
-
-Developing a **Shopping cart (Ecommerse) Application using React-Native**
-
 ## Functionalities
 
-1. User Registration using Firebase Authentication (Using Email/Password)
+1. User Registration Using Email
 2. CRUD Operations like
    - User can Add product to his cart
    - Admin can add product to the product list
@@ -15,14 +11,14 @@ Developing a **Shopping cart (Ecommerse) Application using React-Native**
 ## Tools and Technologies
 
 - Technology: React, React-Native, UI-Kitten, React-Navigation.
-- Database : Firebase
+- Database : sqlite3,django
 
 ## Screenshots
 
-<img align='left' src="https://raw.githubusercontent.com/ikismail/react-native-shopping-cart/master/screenshots/login.png" width="230" style="padding: 5px">
+<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/login.png" width="230" style="padding: 5px">
 
-<img align='left' src="https://raw.githubusercontent.com/ikismail/react-native-shopping-cart/master/screenshots/signup.png" width="230" style="padding: 5px">
+<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/signup.png" width="230" style="padding: 5px">
 
-<img align='left' src="https://raw.githubusercontent.com/ikismail/react-native-shopping-cart/master/screenshots/main.png" width="230" style="padding: 5px">
+<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/main.png" width="230" style="padding: 5px">
 
-<img align='left' src="https://raw.githubusercontent.com/ikismail/react-native-shopping-cart/master/screenshots/product_list.png" width="230" style="padding: 5px">
+<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/product_list.png" width="230" style="padding: 5px">
