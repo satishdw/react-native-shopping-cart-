@@ -15,10 +15,6 @@
 
 ## Screenshots
 
-<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/login.png" width="230" style="padding: 5px">
-
-<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/signup.png" width="230" style="padding: 5px">
-
-<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/main.png" width="230" style="padding: 5px">
-
-<img align='left' src="https://raw.githubusercontent.com/satishdw/react-native-shopping-cart/master/screenshots/product_list.png" width="230" style="padding: 5px">
+![alt text][one]
+   
+   [one]: screenshots/login.png "One"
