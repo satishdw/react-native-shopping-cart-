@@ -1,0 +1,4 @@
+#Wed Aug 12 18:50:08 IST 2020
+base.0=/home/satish77/Daten and wissen/react-native-shopping-cart/react-native-shopping-cart/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
